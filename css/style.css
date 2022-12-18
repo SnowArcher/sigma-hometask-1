@@ -170,6 +170,48 @@ to-top.section-about {
     text-align: center;
     color: #606060;
 }
+/* .unit {
+    fill: none;
+    stroke-width: 10;
+}
+.unit:nth-child(1) {
+    stroke: red;
+}
+.unit:nth-child(2) {
+    stroke: yellow;
+    stroke-dasharray: 15 100;
+    stroke-dashoffset: -15;
+}    
+.unit:nth-child(3) {
+    stroke: green;
+    stroke-dasharray: 25 100;
+    stroke-dashoffset: -30;
+}
+.unit:nth-child(4) {
+    stroke: rgb(0, 81, 255);
+    stroke-dasharray: 30 100;
+    stroke-dashoffset: -55;
+}
+.unit:nth-child(5) {
+    stroke: black;
+    stroke-dasharray: 0.2 100;
+    stroke-dashoffset: -14.9;
+}
+.unit:nth-child(6) {
+    stroke: black;
+    stroke-dasharray: 0.2 100;
+    stroke-dashoffset: -29.9;
+}
+.unit:nth-child(7) {
+    stroke: black;
+    stroke-dasharray: 0.2 100;
+    stroke-dashoffset: -54.9;
+}
+.unit:nth-child(8) {
+    stroke: black;
+    stroke-dasharray: 0.2 100;
+    stroke-dashoffset: -84.9;
+} */
 .skills {
     display: flex;
     flex-direction: row;
